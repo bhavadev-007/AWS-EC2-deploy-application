@@ -1,4 +1,4 @@
-# Our node app is based on `18-alpine` image 
+# Our node app is based on `18-alpine` image and also npm install
 FROM node:18-alpine
 
 # Setting up the environment variables needed:
